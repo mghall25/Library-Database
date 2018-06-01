@@ -4,7 +4,7 @@ SQL used to create and query database
 This was a project at The Tech Academy in which I created database based on a provided schema and wrote queries to answer the questions listed below.
 
 <h3>Schema</h3>
-<img src="" />
+<img src="db_schema.png" />
 
 <h3>Stored Procedures created to answer:</h3>
 <ol>
